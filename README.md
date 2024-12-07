@@ -1,6 +1,6 @@
 <header>
 
-# Salem GitHub Actions xD
+# Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
 
